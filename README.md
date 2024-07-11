@@ -1,17 +1,21 @@
-# Tiago Corsato
+[![Portfolio](https://github.com/TiagoCorsato/tiagocorsato/assets/144154772/25285c48-6f2b-4507-af76-7702ff2ac1c3)](https://tiagoalvarengacors.wixsite.com/my-site)
 
 ## About Me
-- Studied Programming for Games, Web & Mobile at Vancouver Film School
-- Always looking to learn new techniques and software
-- Keeping up-to-date with the latest technologies
+I am a passionate programmer specializing in tech art and gameplay programming, with a background in Programming for Games, Web & Mobile from Vancouver Film School. My journey in the tech world is driven by a continuous desire to learn and adapt to new technologies and methodologies. I thrive on creating immersive game experiences through innovative gameplay mechanics and captivating visuals.
+
+- 📚 **Education**: Programming for Games, Web & Mobile at Vancouver Film School
+- 🌟 **Interests**: Game Development, Tech Art, Gameplay Programming, Tools Development
+- 🚀 **Goals**: To contribute to cutting-edge projects, push the boundaries of interactive entertainment, and leverage my skills in tech art and gameplay programming to deliver impactful experiences.
 
 ## 🌐 Socials
-- [LinkedIn](https://www.linkedin.com/in/tiagocorsato/)
-- [Portfolio](https://tiagoalvarengacors.wixsite.com/my-site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagocorsato/)
+
 
 ## 💻 Tech Skills
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
