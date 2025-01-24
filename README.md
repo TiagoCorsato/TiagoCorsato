@@ -1,7 +1,7 @@
 [![Portfolio](https://github.com/TiagoCorsato/tiagocorsato/assets/144154772/25285c48-6f2b-4507-af76-7702ff2ac1c3)](https://tiagoalvarengacors.wixsite.com/my-site)
 
 ## About Me
-I am a passionate programmer specializing in tech art and gameplay programming, with a background in Programming for Games, Web & Mobile from Vancouver Film School. My journey in the tech world is driven by a continuous desire to learn and adapt to new technologies and methodologies. I thrive on creating immersive game experiences through innovative gameplay mechanics and captivating visuals.
+I am a programmer specialized in game development, with a background in Programming for Games, Web & Mobile from Vancouver Film School. I have experience with programming languages such as C# and C++, and engines like Unity and Unreal Engine. I excel at collaborating within a team, tackling complex solutions, and delivering creative, high-quality applications.
 
 - 📚 **Education**: Programming for Games, Web & Mobile at Vancouver Film School
 - 🌟 **Interests**: Game Development, Tech Art, Gameplay Programming, Tools Development
