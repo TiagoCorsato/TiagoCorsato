@@ -3,10 +3,6 @@
 ## About Me
 I am a programmer specialized in game development, with a background in Programming for Games, Web & Mobile from Vancouver Film School. I have experience with programming languages such as C# and C++, and engines like Unity and Unreal Engine. I excel at collaborating within a team, tackling complex solutions, and delivering creative, high-quality applications.
 
-- 📚 **Education**: Programming for Games, Web & Mobile at Vancouver Film School
-- 🌟 **Interests**: Game Development, Tech Art, Gameplay Programming, Tools Development
-- 🚀 **Goals**: To contribute to cutting-edge projects, push the boundaries of interactive entertainment, and leverage my skills in tech art and gameplay programming to deliver impactful experiences.
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagocorsato/)
 
